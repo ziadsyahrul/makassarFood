@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">makassar Food</string>
+
+    <string-array name="food_name">
+        <item>Coto Makassar</item>
+        <item>Pallubasa</item>
+        <item>Sop Konro</item>
+        <item>Es Pisang Ijo</item>
+        <item>Es Pallubutung</item>
+        <item>Sop Saudara</item>
+        <item>Pisang Epe</item>
+        <item>Sarabba</item>
+        <item>Barongko</item>
+    </string-array>
+
+    <string-array name="detail_food">
+        <item>Coto makassar atau coto mangkasara adalah makanan tradisional Makassar, Sulawesi Selatan. Makanan ini terbuat dari jeroan (isi perut) sapi yang direbus dalam waktu yang lama. Rebusan jeroan bercampur daging sapi ini kemudian diiris-iris lalu dibumbui dengan bumbu yang diracik secara khusus. Coto dihidangkan dalam mangkuk dan dinikmati dengan ketupat dan "burasa" atau yang biasa dikenal sebagai buras, yakni sejenis ketupat yang dibungkus daun pisang.</item>
+        <item>Pallubasa adalah makanan tradisional Makassar, Sulawesi Selatan. Seperti Coto Mangkasara (Coto Makassar), Pallubasa juga terbuat dari jeroan (isi dalam perut) sapi atau kerbau. Proses memasak pun hampir sama dengan Coto Makassar, yakni jeroan direbus dalam waktu lama. Setelah matang, jeroan ditambah dengan daging itu diiris-iris, kemudian ditaruh/dihidangkan dalam mangkuk. Dahulu pallubasa untuk bagian daging sapi sirloin dan tenderloin hanya disajikan untuk disantap oleh keluarga kerajaan.</item>
+        <item>Sup Konro adalah masakan sup iga sapi khas Indonesia yang berasal dari tradisi Bugis dan Makassar.[1] Sup ini biasanya dibuat dengan bahan iga sapi atau daging sapi. Masakan berkuah warna coklat kehitaman ini biasa dimakan dengan burasa dan ketupat yang dipotong-potong terlebih dahulu. Warna gelap ini berasal dari buah kluwek yang memang berwarna hitam. Bumbunya relatif "kuat" akibat digunakannya ketumbar. Rasa pedas dan berbumbu ini dibuat dari campuran rempah-rempah, seperti ketumbar, keluwak (buah yang menyebabkan masakan berwarna hitam), sedikit pala, kunyit, kencur, kayu manis, asam, daun lemon, cengkeh, dan daun salam.</item>
+        <item>Pisang ijo atau es pisang ijo adalah sejenis makanan khas di Sulawesi Selatan, terutama di kota Makassar. Makanan ini terbuat dari bahan utama pisang yang dibalut dengan adonan tepung berwarna hijau. Cara memasaknya dengan mengukus di dandang. Adonan tersebut dibuat dari tepung, air, dan pewarna hijau yang terbuat dari campuran air dengan daun suji atau pandan.</item>
+        <item>Pallu Butung adalah makanan khas Sulawesi Selatan, makanan ini sering dijadikan hidangan untuk berbuka puasa di saat bulan Ramadan. Pallu Butung ini hampir mirip dengan Pisang Ijo.
+Pallu Butung terbuat dari campuran tepung beras, santan, gula pasir, daun pandan, vanili dan garam yang kemudian sampai matang dan kental. lalu dimasukkan potongan-potongan pisang raja yang juga sudah masak lalu diaduk. Pallu Butung dapat dihidangkan hangat-hangat, juga bisa dihidangkan dingin dengan menambah parutan es di atasnya. Pallu Butung juga bisa ditambahkan sedikit sirup untuk menambah warna dan rasa manis.</item>
+        <item>Sop saudara merupakan masakan khas dari Sulawesi Selatan berupa hidangan berkuah dengan bahan dasar daging sapi yang biasanya disajikan bersama bahan pelengkap seperti bihun, perkedel kentang, jeroan sapi (misalnya, paru goreng), dan telur rebus. Masakan ini umum dikonsumsi bersama dengan nasi putih dan ikan bolu (bandeng) bakar.</item>
+        <item>Buah pisang bisa disajikan dan disantap dalam berbagai macam bentuk penganan. Bisa disantap langsung, atau diolah dulu dengan cara dibakar, direbus, hingga dibuat menjadi kolak. Di Kota Makassar, pisang diolah menjadi bentuk makanan yang disebut dengan Pisang Epe.
+Untuk membuat hidangan Pisang Epe, pisang digunakan biasanya berjenis pisang kepok yang masih setengah mengkal karena akan menghasilan pisang olahan dengan tekstur yang lembut.
+Proses pengolahannya boleh dikatakan sangat sederhana. Pisang dikupas dan dipanggang di atas bara api hingga setengah matang. Kalau sudah cukup lembek, pisang diletakkan di atas alat yang terbuat dari balok kayu untuk kemudian ditekan hingga berbentuk pipih atau agak gepeng. Lalu pisang tersebut dipanggang lagi. Proses pembakaran pisang dilakukan dua tahap dengan tujuan agar pisang terasa sedikit renyah saat dinikmati. Setelah proses pembakaran selesai, pisang diletakkan di atas piring saji dan diguyur dengan lelehan gula merah beraroma durian atau nangka.
+Beberapa penjual Pisang Epe ada yang menyediakan pilihan bahan tambahan yang bisa ditaburkan di atas Pisang Epe, misalnya cokelat, keju, kelapa sangria, dan kacang panggang.</item>
+        <item>Sarabba adalah Minuman kesehatan khas kampung Bugis Makassar, sarabba dapat kita jumpai di propinsi sulawesi selatan, tepatnya di kota daeng, Minuman ini berbumbu dasar jahe, gula merah, dan santan. Sekilas mirip dengan STMJ atau susu madu telur jahe, yang membedakan adalah penambahan beberapa jenis rempah-rempah sehingga memberikan aroma, rasa, serta sensasi hangat yang khas ketika meminumnya.
+Jika berkunjung ke kota Makassar, minuman hangat ini mudah sekali ditemui kawasan pantai Losari ataupun di sepanjang jalan yang ada di kota Makasar. Kalau dilihat sepintas, tampilan dan juga rasanya mirip sekali dengan minuman hangat susu madu telur jahe. Bedanya, Saraba nama minuman ini diberi tambahan santan tanpa menggunakan madu. Sedangkan rasa manisnya berasal dari gula merah yang digerus halus.</item>
+        <item>Barongko merupakan makanan khas Bugis-Makassar yang terbuat dari pisang yang dihaluskan, telur, santan, gula pasir, dan garam. Kemudian dibungkus daun pisang lalu dikukus. Jika sudah matang, dimasukkan ke dalam kulkas.
+Dahulu, Barongko disajikan sebagai hidangan penutup bagi para raja Bugis. Selain itu juga sering disajikan saat acara adat seperti sunatan, akikah, pernikahan, syukuran dan lain sebagainya. Hingga kinipun Barongko masih biasa disajikan saat pesta adat. Selain itu pula, Barongko masih dapat dijumpai ketika bulan Ramadhan sebagai menu untuk berbuka puasa.</item>
+
+    </string-array>
+</resources>
