@@ -1,29 +1,29 @@
 package com.ziadsyahrul.makassarfood;
 
 import android.content.Context;
-import android.content.Intent;
-import android.support.annotation.NonNull;
-import android.support.v7.widget.RecyclerView;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.ImageView;
-import android.widget.TextView;
-
-import com.bumptech.glide.Glide;
+        import android.content.Intent;
+        import android.support.annotation.NonNull;
+        import android.support.v7.widget.RecyclerView;
+        import android.view.LayoutInflater;
+        import android.view.View;
+        import android.view.ViewGroup;
+        import android.widget.ImageView;
+        import android.widget.TextView;
+        import com.bumptech.glide.Glide;
 
 public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
 
     //TODO 1 Membuat variable
     Context context;
     int[] gambarFood;
-    String[] namaFood,detailFood;
+    String[] namaFood, detailFood, resepMakanan;
 
-    public Adapter(Context context, int[] gambarClub, String[] namaClub, String[] detailClub) {
+    public Adapter(Context context, int[] gambarClub, String[] namaClub, String[] detailClub, String[] resepMakanan) {
         this.context = context;
         this.gambarFood = gambarClub;
         this.namaFood = namaClub;
         this.detailFood = detailClub;
+        this.resepMakanan = resepMakanan;
 
     }
 
@@ -47,6 +47,8 @@ public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
                 pindah.putExtra("nf", namaFood[i]);
                 pindah.putExtra("df", detailFood[i]);
                 pindah.putExtra("gf", gambarFood[i]);
+                pindah.putExtra("rm", resepMakanan[i]);
+
                 context.startActivity(pindah);
             }
         });
@@ -60,6 +62,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
     public class ViewHolder extends RecyclerView.ViewHolder {
         ImageView imgLogo;
         TextView txtNama;
+
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
             imgLogo = itemView.findViewById(R.id.imgList);
@@ -67,3 +70,6 @@ public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
         }
     }
 }
+
+
+

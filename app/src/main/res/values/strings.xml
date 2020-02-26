@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">makassar Food</string>
+    <string name="app_name">Makassar Food</string>
 
     <string-array name="food_name">
         <item>Coto Makassar</item>
@@ -11,6 +11,9 @@
         <item>Pisang Epe</item>
         <item>Sarabba</item>
         <item>Barongko</item>
+        <item>Nasi Kuning</item>
+        <item>Pallumara</item>
+        <item>Mie Titi</item>
     </string-array>
 
     <string-array name="detail_food">
@@ -29,6 +32,467 @@ Beberapa penjual Pisang Epe ada yang menyediakan pilihan bahan tambahan yang bis
 Jika berkunjung ke kota Makassar, minuman hangat ini mudah sekali ditemui kawasan pantai Losari ataupun di sepanjang jalan yang ada di kota Makasar. Kalau dilihat sepintas, tampilan dan juga rasanya mirip sekali dengan minuman hangat susu madu telur jahe. Bedanya, Saraba nama minuman ini diberi tambahan santan tanpa menggunakan madu. Sedangkan rasa manisnya berasal dari gula merah yang digerus halus.</item>
         <item>Barongko merupakan makanan khas Bugis-Makassar yang terbuat dari pisang yang dihaluskan, telur, santan, gula pasir, dan garam. Kemudian dibungkus daun pisang lalu dikukus. Jika sudah matang, dimasukkan ke dalam kulkas.
 Dahulu, Barongko disajikan sebagai hidangan penutup bagi para raja Bugis. Selain itu juga sering disajikan saat acara adat seperti sunatan, akikah, pernikahan, syukuran dan lain sebagainya. Hingga kinipun Barongko masih biasa disajikan saat pesta adat. Selain itu pula, Barongko masih dapat dijumpai ketika bulan Ramadhan sebagai menu untuk berbuka puasa.</item>
+        <item>Nasi kuning adalah makanan khas Indonesia. Makanan ini terbuat dari beras yang dimasak bersama dengan kunyit serta santan dan rempah-rempah. Dengan ditambahkannya bumbu-bumbu dan santan, nasi kuning memiliki rasa yang lebih gurih daripada nasi putih. Nasi kuning adalah salah satu variasi dari nasi putih yang sering digunakan sebagai tumpeng. Nasi kuning biasa disajikan dengan bermacam lauk-pauk khas Indonesia.
+Dalam tradisi Di Indonesia warna nasi kuning melambangkan gunung emas yang bermakna kekayaan, kemakmuran serta moral yang luhur. Oleh sebab itu nasi kuning sering disajikan pada peristiwa syukuran dan peristiwa-peristiwa gembira seperti kelahiran, pernikahan dan tunangan. Dalam tradisi Bali, warna kuning adalah salah satu dari empat warna keramat yang ada, disamping putih, merah dan hitam. Nasi kuning oleh karena itu sering dijadikan sajian pada upacara kuningan.</item>
+        <item>Palumara adalah masakan khas Makassar – artinya: bukan masakan khas Bugis, Pangkep, atau daerah-daerah Sulawesi Selatan lainnya. Sekalipun juga jamak disajikan dengan potongan daging ikan beserta tulangnya, tetapi yang paling populer adalah yang dibuat dari kepala ikan – khususnya kepala ikan kakap merah ukuran besar. Mungkin karena lemak dan
+            tulang muda di bagian kepala ikan membuat kuahnya yang encer menjadi sedikit lengket-lengket.</item>
+        <item>MIE Titi sudah jadi hidangan kuliner khas Makassar. Tapi, tahu tidak, masakan mi kering yang bakar dan dilengkapi kuah berbumbu kental itu,
+ternyata bukan nama mie, seperti mie kuah, mie bakso, atau mi goreng.</item>
 
     </string-array>
+
+    <string-array name="nama_restoran">
+        <item>Coto Nusantara</item>
+        <item>Pallubasa Serigala</item>
+        <item>Sop Konro Karebosi</item>
+        <item>Warung Bravo</item>
+        <item>Warung Bravo</item>
+        <item>Warung Pangkep Sop Saudara</item>
+        <item>Pisang Epe Pantai Losari</item>
+        <item>Sarabba Cerekang</item>
+        <item>Mama Barongko</item>
+        <item>Nasi Kuning Hj.Teo Wasfah Latifah</item>
+        <item>Rajanya Pallu Mara "Kepala Ikan"</item>
+        <item>Mie Titi Irian</item>
+
+    </string-array>
+
+    <string-array name="nama_jalan">
+        <item>Rekomendasi restoran coto makassar</item>
+        <item>Rekomendasi restoran pallubasa</item>
+        <item>Rekomendasi restoran sop konro</item>
+        <item>Rekomendasi restoran es pisang ijo</item>
+        <item>Rekomendasi restoran es pallu butung</item>
+        <item>Rekomendasi restoran sop saudara</item>
+        <item>Rekomendasi restoran pisang epe</item>
+        <item>Rekomendasi restoran sarabba</item>
+        <item>Rekomendasi restoran barongko</item>
+        <item>Rekomendasi restoran nasi kuning</item>
+        <item>Rekomendasi restoran Pallumara</item>
+        <item>Rekomendasi restoran Mie Titi</item>
+    </string-array>
+
+    <string-array name="no_telepon">
+        <item>+62 813-4224-2434</item>
+        <item>+62 853-4208-6888</item>
+        <item>+62 21 4520990</item>
+        <item>+62 411 3615180</item>
+        <item>+62 411 3615180</item>
+        <item>+62 852-4040-2231</item>
+        <item>+62 812-4189-0011</item>
+        <item>+62 852-9941-4000</item>
+        <item>+62 411 3617453</item>
+        <item>+62 812-4246-698</item>
+        <item>+62 853-4387-0607</item>
+        <item>(0411) 584300</item>
+    </string-array>
+
+
+    <string-array name="title_resep">
+        <item>Resep Coto Makassar</item>
+        <item>Resep Pallubasa</item>
+        <item>Resep Sop Konro</item>
+        <item>Resep Es Pisang Ijo</item>
+        <item>Resep Es Pallu Butung</item>
+        <item>Resep Sop Saudara</item>
+        <item>Resep Pisang Epe</item>
+        <item>Resep Sarabba</item>
+        <item>Resep Barongko</item>
+        <item>Resep Nasi Kuning</item>
+        <item>Resep Pallumara</item>
+        <item>Resep Mie Titi</item>
+    </string-array>
+
+    <string-array name="Resep_food">
+        <item>Bahan Untuk Membuat Resep Coto\n makassar : \n
+            \n
+1,5 kg daging sapi bagian paha\n
+2,5 liter air rebusan beras yang masih berwarna putih \n
+6 lembar daun salam \n
+6 batang serai, memarkan \n
+1 ruas jari jahe, memarkan \n
+300 gram kacang goreng, haluskan \n
+1 ruas jari lengkuas, memarkan \n
+Minyak goreng secukupnya \n
+\n
+            \n
+Bumbu Yang Dihaluskan: \n
+\n
+12 siung bawang putih \n
+8 butir kemiri, sangrai \n
+1 ½ sendok makan ketumbar \n
+1 ½ sendok teh jinten \n
+1 ½ sendok teh merica \n
+Garam secukupnya \n
+            \n
+Bahan Pelengkap Untuk Membuat Coto Makassar: \n
+            \n
+Irisan seledri \n
+Irisan daun bawang \n
+Bawang goreng \n
+Kerupuk \n
+            \n
+Langkah-Langkah Untuk Cara Membuat Resep Coto Makassar : \n
+            \n
+Langkah pertama untuk membuat coto makasar adalah dengan cara merebus daging sapi dengan menggunakan air perasan beras. Campurkan juga lengkuas, jahe, batang serai dan juga daun salam kedalam rebusan. Biarkan beberapa menit sampai daging empuk. \n
+Setelah daging matang, angkat kemudian tiriskan. Potong-potong berbentuk dadu. \n
+Hasil kuah rebusan tadi jangan dibuang tetapi disisihkan saja untuk dijadikan kaldu coto. Jika anda ingin daging jeroan, usahakan jangan merebusnya bersama daging sapi bagian paha. \n
+Selanjutnya haluskan semua bumbu seperti bawang putih, kemiri, ketumbar, jinten, garam dan juga merica sampai halus. \n
+Panaskan minyak goreng dan masukan bumbu yang sudah dihaluskan. Tumis sebentar sampai bumbu tercium bau harum. \n
+Masukan bumbu yang sudah ditumis kedalam kaldu sapi tadi, aduk sampai rata. Selanjutnya masukan juga kacang tanah yang sudah dihaluskan. Didihkan dengan menggunakan api kecil \n</item>
+        <item>BAHAN : \n
+            \n
+150 gram daging sapi \n
+150 gram jantung sapi \n
+150 gram babat \n
+150 gram hati sapi \n
+150 gram limpa \n
+150 gram usus sapi \n
+Minyak goreng untuk menumis secukupnya \n
+            \n
+BUMBU HALUS : \n
+            \n
+8 buah cabe merah keriting \n
+12 siung bawang merah \n
+7 siung bawang putih\n
+1/2 sdt jinten\n
+1 sdm ketumbar\n
+Garam secukupnya\n
+3 cm jahe\n
+1/2 biji pala\n
+800 ml air kaldu dari rebusan daging sapi\n
+50 gram kelapa parut, sangrai, haluskan sampai berminyak\n
+1 batang serai, dimemarkan\n
+3 cm lengkuas, dimemarkan\n
+50 ml air asam jawa\n
+1 sdt gula merah\n
+3 cm kayumanis\n
+7 buah cengkih\n
+            \n
+BAHAN TABURAN : \n
+            \n
+Daun bawang \n
+Bawang goreng \n
+            \n
+CARA MEMASAK PALLU BASA KHAS MAKASSAR DAGING SAPI : \n
+            \n
+Sebelumnya rebus dahulu daging sapi dan jeroan dalam tempat berbeda atau terpisah sampai keduanya empuk dan matang. Ambil air kaldunya. Lalu potong-potong daging dan jerohan sesuai selera. Sisihkan. \n
+Selanjutnya panaskan minyak goreng untuk menumis bumbu halus bersama serai, lengkuas, cengkih, kayu manis, dan juga gula merah hingga beraroma harum dan matang.\n
+Kemudian masukkan daging dan jerohan sapi sambil diaduk rata.Tambahkan air kaldu sapi, masak menggunakan api kecil sampai masakan mendidih.\n
+Tambahkan air asam dan kelapa sangrai. Aduk kembali dan masak hingga bumbu meresap dan kuah kental. Angkat dan sajikan. Dan berikan taburan daun bawang plus bawang goreng.
+Sajikan. \n
+            \n
+TIPS dan TRICKS :\n
+
+Apabila tidak suka jeroan lainnya bisa hanya menggunakan daging khas nya saja dan asli dari Makassar apabila telah matang diatas diberikan kuning telor ceplok mentah tapi kalau tidak suka boleh tidak menggunakannya.</item>
+        <item>Bahan bahan Resep Sop Konro Empuk dan Lezat : \n
+            \n
+            \n
+Bahan utama yang dibutuhkan adalah : \n iga sapi yang masih segar kurang lebih sebanyak 2 kg saja. Bisa juga menggunakan daging sapi atau buntut sapi. Potong potong iga sesuai selera. Jangan terlalu besar supaya mudah empuknya. Tidak perlu dicuci supaya tekstur dan rasa dagingnya tetap asli. \n
+Air asam jawa kurang lebih sebanyak 150 ml saja. \n
+Bawang merah ukuran sedang besar kurang lebih sebanyak 5-7 siung saja. Kupas kulitnya lalu iris iris tipis. \n
+Kapulaga kurang lebih sebanyak 3 pcs kemudian pipihkan. \n
+Kayu manis ukuran sedang kurang lebih sebanyak 2 pcs saja. \n
+Cengkeh kurang lebih sebanyak 5 pcs saja. \n
+Daun salam kurang lebih sebanyak 6-7 pcs saja. Cuci bersih sebelum digunakan. \n
+Lengkuas ukuran sedang besar kurang lebih sebanyak 2 ruas saja. Cuci bersih lalu memarkan. \n
+Gula pasir secukupnya sesuai selera atau kurang lebih sebanyak 1 sendok makan saja. \n
+Garam dapur beryodium secukupnya sesuai selera atau kurang lebih sebanyak 2 sendok kecil saja. \n
+Air bersih kurang lebih sebanyak 2.7 liter saja. \n
+Kaldu instan sapi secukupnya sesuai selera. Bisa dihilangkan kalau tidak suka. \n
+Minyak goreng secukupnya untuk menumis bumbu halusnya. \n
+Daun bawang yang masih segar kurang lebih sebanyak 2 pcs saja. Cuci bersih lalu iris iris kecil untuk taburan. \n
+Bawang merah goreng secukupnya untuk bahan taburan. \n
+            \n
+Bahan Bumbu Sup Konro Spesial Asli Makassar \n
+            \n
+Keluwak yang bagus kurang lebih sebanyak 3 buah saja. Ambil bagian dalamnya.\n
+Bawang merah ukuran sedang besar kurang lebih sebanyak 10 pcs saja. Kupas kulit luarnya lalu potong potong kecil supaya mudah saat akan dihaluskan. \n
+Bawang putih ukuran sedang besar kurang lebih sebanyak 7 pcs saja. Kupas kulit luarnya lalu potong potong supaya mudah saat akan diuleg nantinya. \n
+Jahe ukuran sedang kurang lebih sebanyak 2 ruas saja. Kupas kulit luarnya lalu potong potong juga supaya mudah saat akan dihaluskan. \n
+Batang serai ukuran sedang diambil bagian putihnya saja kurang lebih sebanyak 3 batang. \n
+Jinten halus atau bubuk kurang lebih sebanyak 3/4 sendok kecil saja. \n
+Kunyit yang sudah dibakar sebelumnya kurang lebih sebanyak 2 ruas saja. \n
+Kemiri yang sudah disangrai sebelumnya kurang lebih sebanyak 7 butir saja. \n
+Pala kurang lebih sebanyak 3/4 pcs saja. \n
+Merica bubuk kurang lebih sebanyak 2 sendok kecil saja. \n
+Ketumbar yang sudah disangrai sebelumnya kurang lebih sebanyak 1 sendok makan saja. \n
+            \n
+Cara Membuat Sop Konro Karebosi Yang Mudah dan Praktis \n
+            \n
+Langkah pertama siapkan panci ukuran agak besar lalu beri air secukupnya dan masak sampai airnya mendidih. \n
+Masukkan daging iga sapi yang sudah dipotong potong sebelumnya ke dalam paci diatas lalu masak sampai benar benar empuk. Selama proses prebusan, buang kotoran yang keluar dan mengapung. \n
+Tambahkan air bersih lagi kalau diperlukan. Setelah empuk, ambil air kaldunya secukupnya untuk kuah iga konronya secukupnya atau kurang lebih sebanyak 2.5 liter saja. \n
+Haluskan berbagai macam bumbu sop iga nya diatas, seperti serai, bawang, pala, kemir, keluwak dan lainnya dengan cara diuleg sampai benar benar halus. Bisa juga diblender, cuma hasilnya nanti kurang harum dan enak rasanya. \n
+Siapkan penggorengan dengan api sedang kecil dan beri minyak goreng secukupnya (2-3 sendok makan). \n
+Masukkan bumbu sup yang sudah dihaluskan diatas dan aduk aduk sampai matang dan tercium bau harum khas tumisannya. \n
+Masukkan irisan bawang, lengkuas yang sudah dimemarkan dan daun salamnya. Aduk aduk dan masak sampai salamnya layu kemudian matikan apinya. \n
+Setelah itu masukkan bumbu bumbu diatas ke dalam panci berisi iga dan air kaldunya. Aduk aduk sampai semua bahan dan bumbu tercampur dengan rata. \n
+Masukkan sisa bahannya, seperti air asam jawa, gula pasir, kayu manis, cengkeh, garam dapur beryodium, kapulaga dan kaldu sapi instannya lalu aduk aduk kembali sampai semua bahan dan bumbu tercampur rata dan mendidih kaldunya. \n
+Masukkan irisan daun bawangnya kemudian aduk aduk kembali. \n
+Terakhir cicipi dulu dan tambahkan garam atau gula kalau diperlukan. Angkat dan sajikan bersama taburan bawang merah goreng dan irisan tomat diatasnya. \n</item>
+
+        <item>Bahan membuat Pisang Ijo: \n
+            \n
+8 buah pisang Raja yang sudah matang \n
+150 gr tepung terigu \n
+150 gr tepung beras \n
+60 gr gula pasir \n
+300 ml santan kental \n
+250 ml air perasan daun pandan (blender 2 ikat daun pandan + 250 ml air, lalu peras) \n
+3 tetes pewarna hijau makanan/pasta pandan \n
+Kertas minyak secukupnya \n
+Daun pisang secukupnya \n
+\n
+            \n
+Bahan membuat vla: \n
+            \n
+500 ml santan kental \n
+50 gr tepung beras \n
+2 ikat daun pandan \n
+100 gr gula pasir \n
+½ sdt garam \n
+\n
+            \n
+Pelengkap: \n
+Es batu secukupnya \n
+Sirup Coco Pandan secukupnya \n
+Susu kental manis secukupnya \n
+\n
+            \n
+Cara membuat: \n
+Bersihkan, lalu kukus pisang raja sampai matang atau kira-kira 10 menit. Lalu, kupas kulit pisang dan sisihkan. \n
+Masukkan tepung terigu dan tepung beras ke wadah serta campur dengan santan kental dan air perasan daun pandan. Aduk perlahan agar adonan tidak menggumpal. \n
+Kemudian tambahkan gula dan pasta pandan/pewarna hijau dan aduk rata. \n
+Kukuslah adonan sekitar 20 menit. Setelah itu angkat dan diaduk sampai kalis. \n
+Siapkan kertas minyak, lalu ambil beberapa sendok adonan dan taruh di atasnya. Pipihkan adonan, kemudian letakkan pisang dan balut dengan adonan. Pastikan seluruh bagian pisang tertutup adonan dengan rapi. Lakukan hal yang sama sampai pisang habis. \n
+Letakkan pisang yang sudah dibungkus adonan ke atas daun pisang. Kukus pisang lebih kurang 15 menit. Usahakan ada jarak antar pisang agar tidak menempel saat dikukus. Angkat pisang saat sudah matang lalu dinginkan. \n
+Sambil menunggu pisang matang sempurna, siapkan panci untuk membuat vla. Masukkan semua bahan untuk membuat vla. \n
+Masaklah dengan api kecil sambil diaduk terus sampai mendidih dan mengental. \n
+Untuk penyajiannya, tuangkan beberapa sendok vla sesuai selera Anda. Kemudian potong-potonglah pisang hijau dan letakkan di atas vla. Tambahkan es batu lalu siram es dengan sirup Coco Pandan dan susu kental manis. \n</item>
+        <item>Bahan Es Palu Butung Makassar : \n
+            \n
+10 buah pisang raja, kukus, kupas \n
+15 helai daun pandan, ambil airnya \n
+500 ml santan kental \n
+1/2 sdt air kapur sirih \n
+1 sdt garam \n
+250 gram tepung terigu \n
+Daun pisang untuk membungkus \n
+10 lembar daun suji, ambil airnya \n
+20 gram gula pasir \n
+2 sdm mentega tawar \n
+Lidi untuk menyemat \n
+Bahan Saus Santannya \n
+600 ml santan kental \n
+4 sdm tepung beras, larutkan \n
+8 sdm air \n
+1/2 sdt garam \n
+1/4 sdt vanili  \n
+            \n
+Bahan Pelengkapnya \n
+            \n
+Sirup merah \n
+Es batu, kepruk \n
+Cara Membuat Es Palu Butung Makassar : \n
+            \n
+Adonan Palu Butung : Untuk adonannya terlebih dahulu aduk santan kental, air pandan, air suji, air kapur sirih, garam, dan gula pasir. Lalu tuang kedalam tepung terigu sedikit demi sedikit, aduk rata. \n
+Selanjutnya masak, tambahkan mentega tawar ke dalamnya, aduklah sampai kalis dan dapat dibentuk. \n
+Ambillah satu lembar daun pisang, olesi dengan minyak, beri 3 sdm adonan lalu pipihkan. \n
+Sekarang taruh pisang diatasnya, tutuplah dengan adonan kemudian ratakan. \n
+Selanjutnya gulung daun pisang sambil dipadatkan, semat ujungnya dengan lidi. \n
+Panaskan dandang, kukuslah adonan pisang sampai matang, angkat kemudian potong-potong. \n
+Saus Santan : Untuk saus santannya terlebih dahulu rebus santan kental, vanili serta garam, masak sampai mendidih. \n
+Selanjutnya masukkan larutan tepung beras, aduk rata, masaak hingga mengental. Angkat. \n
+Penyajian : Untuk penyajian yang disarankan, susun potongan adonan palu butung, es batu. Sirup saus santan dan sirup merah, sajikan. \n
+Es palu butung makassar siap untuk disajikan dan dinikmati.</item>
+        <item>Bahan-bahan untuk membuat soup saudara : \n
+            \n
+400 gram daging sengkel yang dipotong kotak-kotak kecil \n
+2 liter air \n
+1 biji jahe dengan ukuran 2 cm \n
+1 buah lengkuas sepanjang 3 cm \n
+5 lembar daun jeruk yang di sobek-sobek \n
+3 batang serai, digeprak/dimemarkan \n
+1 sendok makan ditambah 2 sendok teh garam \n
+¼ sendok teh bubuk pala \n
+½ cm batang kayu manis \n
+3 sendok makan minyak goreng \n
+            \n
+Bumbu-bumbu yang dihaluskan :\n
+            \n
+3 siung bawang putih \n
+8 siung bawang merah \n
+3 biji kemiri \n
+1 sendok makan ketumbar yang disangrai \n
+¼ sendok teh jinten \n
+            \n
+        Bahan Paru Goreng Kering : \n
+            \n
+500 gram paru sapi \n
+1000 ml air \n
+            \n
+Bumbu-bumbu untuk mengolah paru : \n
+            \n
+5 siung bawang putih \n
+1 sendok teh garam \n
+            \n
+Bahan-bahan untuk membuat perkedel : \n
+            \n
+300 gram kentang, lalu potong-potong \n
+3 sendok makan bawang goreng \n
+½ sendok teh bubuk merica halus \n
+¼ sendok teh bubuk pala \n
+¼ sendok teh garam1 batang daun bawang dicincang \n
+1 butir telur \n
+1 butir telur lagi di kocok lepas sebagai bahan pelapis \n
+Minyak goreng secukupnya \n
+            \n
+Bahan-bahan pelengkap penyajian : \n
+            \n
+2 batang daun bawang dirajang \n
+5 sendok makan bawang goreng \n
+50 gram mi soun, seduh dengan air hangat sebentar \n
+Ketupat dipotong-potong \n
+1 sendok makan ketumbar \n
+Minyak goreng secukupnya \n
+            \n
+Cara Membuat Soup Saudara Kahas Makassar Asli Sedap dan Nikmat : \n
+            \n
+Rebuslah daging dengan menggunakan air hingga mendidih. Sementara menunggu tumislah bahan bumbu yang telah dihaluskan yaitu lengkuas, jahe, daun jeruk serta serai hingga harum. Tuangkan hasil tumisan bumbu kedalam rebusan daging, lalu tambahkan pala, garam serta kayu manis. Masaklah hingga bumbu meresap kedalam daging. \n
+Rebuslah paru kedalam bumbu halus paru yang telah dibuat tadi hingga matang. Tiriskan setelah diangakat kemudian, goreng paru sampai renyah \n
+Membuat Perkedel : gorenglah potongan-potongan kentang hingga matang, selanjutnya kentang dihaluskan. Tambahkan bawang goreng, pala, merica, garam, daun bawang serta telur. Aduklah hingga rata. Bentuklah bulatan-bulatan dari adonan perkedel, lalu celupkan kedalam telur untuk melapisi. Gorenglah perkedel hingga berwarna kecoklatan, angkat dan sisihkan. \n
+Susunlah bahan pelengkap penyajian di dalam mangkuk saji, taburkan paru goreng kering dan perkedel, lalu siramlah dengan kuah panas dan selamat bersantap. \n</item>
+        <item>Bahan utama Resep Pisang Epe dari Makasar : \n
+            \n
+        Pisang Kepok yang sudah matang ( Jumlah tergantung yang mau di buat) \n
+Margarin secukup nya \n
+            \n
+Bahan Tambahan untuk Saus/ siraman gula di atas nya : \n
+\n
+400 gram Gula merah atau gula jawa (Untuk pisang kepok ukuran sedang sejumlah 24 pcs) \n
+6 daun pandan ukuran sedang \n
+1,2 liter air \n
+1 sendok kecil / sendok teh garam dapur \n
+4 sendok makan gula pasir putih \n
+            \n
+Cara Membuat Pisang Epe Makasar: \n
+            \n
+Sebenarnya, cara membuat masakan pisang dari Makasar ini sama seperti kita membuat Roti bakar. Pisang kepok yang sebelum nya sudah kita tipiskan atau pipihkan di olesi dulu dengan margarin yang sudah di persiapkan. Oleskan secara merata dan pastikan semua bagian terkena margarin. Setelah itu, pisang yang sudah pipih tersebut di panggang menggunakan panggangan yang sudah kita persipakan di langkah 1. \n
+Untuk hasil yang maksimal dan merata, sebaik nya gunakan kipas tangan. Tetapi kalau terpaksa, menggunakan kipas angin juga boleh, asal angin nya tidak terlalu besar. Pastikan Pisang tersebut kita bolak-balikan supaya tidak gosong dan menghitam di salah satu sisi nya. Untuk saus nya, semua bahan terlebih dulu di cuci bersih. Rebus air dulu sampai matang. Setelah itu masukkan gula merah dan terus di aduk. Setelah gula setengah cair, masukan garam dapur dan gula pasir. Terakhir masukan daun pandan dan terus diaduk sampai gula merah menyatu dengan air. \n
+        Setelah dirasa tingkat kematangan cukup atau sesuai selera, kita angkat pisang tersebut dan di taruh di piring saji. Setelah itu, siram dengan gula merah dan bahan tambahan lain, seperti keju parut, coklat, saus durian atau yang lain sesuai selera. \n</item>
+        <item>Bahan : \n
+            \n
+
+800 ml air \n
+350 gram jahe, dikupas, ditumbuk kasar \n
+350 gram gula jawa, disisir \n
+1/2 sendok teh kayumanis bubuk \n
+1/2 sendok teh biji pala bubuk \n
+1/2 sendok teh merica bubuk \n
+200 ml santan kental \n
+45 gram kuning telur ayam kampung \n
+\n
+Cara Membuat Sarabba Khas Makassar: \n
+\n
+1. Rebus gula jawa hingga mendidih dan larut. \n
+2. Masukkan jahe, kayumanis, biji pala, dan merica. Masak 10 menit sampai aroma jahenya tercium. \n
+        3. Kecilkan api. Tambahkan santan kental perlahan sambil terus diaduk. \n
+4. Tuang 200 ml air jahe, masukkan 1 butir kuning telur, aduk rata. Sajikan selagi hangat. \n</item>
+        <item>Bahan-bahan Kue Barongko Khas Bugis : \n
+            \n
+Pisang kepok 1 sisir ( kira-kira 12 buah ) \n
+Telur 1 butir \n
+Gula pasir 50 gram \n
+Garam 1/4 sendok teh \n
+Santan 100 mili liter \n
+Daun pisang secukupnya \n
+            \n
+Cara Membuat Kue Barongko Khas Bugis : \n
+            \n
+Langkah awal potong-potong buah pisang, buang bagian tengah yang berwarna hitam. \n
+Selanjutnya lumatkan pisang atau bisa langsung diblender lalu dicampur dengan santan, gula dan garam. \n
+Setelah itu masukkan telur yang sudah dikocok lepas, aduk hingga rata. \n
+Ambil 2 lembar dayn pisang, lalu beri 2 sendok sayur adonan kue. bungkus bentuk tum. lalukan terus hingga semua adonan habis. \n
+Terakhir kukus kurang lebih selama 25 menit hingga matang. Dinginkan sebentar, lalu masukkan ke dalam kulkas hingga saat akan disajikan agar lebih enak. \n</item>
+        <item>Bahan-bahan : \n
+            \n
+1 liter beras \n
+1¼ liter santan encer dari 1 butir kelapa \n
+1 sendok makan kunyit diparut, direbus dengan 50 cc air dan disaring \n
+2 lembar daun pandan ikat \n
+2 lembar daun salam \n
+1 batang serai \n
+1 sendok makan garam \n
+1 sendok teh air perasan jeruk nipis \n
+            \n
+Lauk dan Sayuran sebagai pelengkap : \n
+            \n
+Semur daging \n
+Abon \n
+Sayuran nangka dan labu \n
+Paru goreng \n
+Telur Pindang Rebus \n
+Sambal Goreng  Ubi Kering \n
+            \n
+Cara Memasak Nasi Kuning Khas Makassar: \n
+            \n
+Campurkan santan dengan air kunyit yang sudah disaring, daun pandan, salam, serai dan garam, rebus sampai mendidih. \n
+Kukus beras setengah matang, letakkan dalam panci, tuangi santan mendidih sambil diaduk sampai santannya habis terserap oleh beras. \n
+Beri air jeruk nipis, aduk sampai rata. \n
+Kukus lagi sampai nasi kuning-nya menjadi matang. \n
+Sajikan dalam piring kemudian lengkapi dengan lauk dan sayuran yang tersedia \n</item>
+
+        <item>Bahan-bahan \n
+            \n
+3 kepala ikan kakap, belah 2. Lumuri jeruk nipis dan garam\n
+5 siung bawang putih, haluskan\n
+10 buah cabai merah keriting, haluskan (sesuai selera)\n
+1 ruas kunyit, haluskan\n
+1 buah terasi, haluskan (opsional)\n
+6 butir bawang merah, iris\n
+2 lembar daun kunyit, iris kasar\n
+6 lembar daun jeruk, sobek-sobek\n
+3 batang serai, memarkan\n
+10 buah cabai rawit, biarkan utuh (sesuai selera)\n
+1 buah tomat, potong-potong\n
+3 buah belimbing wuluh, potong2/asam jawa, encerkan dgn air\n
+2 sdt garam\n
+1 sdt gula pasir\n
+secukupnya Air\n
+1 sdm air jeruk nipis\n
+        \n
+        Langkah: \n
+            \n
+        Tumis bawang putih, cabai merah keriting, kunyit, terasi, bawang merah, daun kunyit, daun jeruk, dan serai. \n
+        Tuang air. Masukkan cabai rawit, belimbing wuluh/asam jawa, dan tomat. Didihkan.\n
+        Masukkan kepala ikan. Bubuhkan garam dan gula pasir. Masak sampai matang. Sebelum diangkat, bubuhkan air jeruk nipis.</item>
+
+        <item>Bahan-bahan	\n
+\n
+500 gr mie basah/mie kuning tipis\n
+1 ikat sawi hijau\n
+2 bh dada ayam, potong kotak2\n
+5 bh bakso kotak, potong kecil2\n
+2 butir telur, kocok lepas\n
+4 siung bawangputih, dihaluskan\n
+2 sdm tepung maizena, dilarutkan dgn sedikit air\n
+secukupnya Garam\n
+secukupnya Gula pasir\n
+secukupnya Merica bubuk\n
+Minyak untuk menggoreng\n
+        \n
+        Langkah - langkah : \n
+        \n
+        Rendam mie dengan air hangat +- 3menit.
+Kemudian goreng mie sampai kering\n
+        Sambil menggoreng mie..
+Rebus dada ayam..sampai masak..dan simpan air rebusannya.\n
+        Rebus bakso sampai masak..sisihkan\n
+        Tumis bawang putih yg sdh dihaluskan sampai harum..kemudian masukkan air rebusan ayam..dan berturut2 masukkan bakso,ayam,dan sawi hijau yg sdh diptong kecil, garam,gula,dan merica..koreksi rasa dan masak sebentar..kemudian masukkan larutan maizena..masak hingga kuah agak kental..lalu masukkan telur yg sdh dikocok lepas sambil terus diaduk searah jarum jam.
+Masak hingga kuah kental dan agk meletupletup. Sajikan\n
+        Cara penyajian :
+Tata diatas piring mie kering kemudian siramkan kuahnya diatasnya..selamat menikmati :)</item>
+    </string-array>
+
 </resources>

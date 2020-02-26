@@ -3,12 +3,13 @@ package com.ziadsyahrul.makassarfood;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.ProgressBar;
 
 public class SplashScreenActivity extends AppCompatActivity {
 
     //TODO 1 membuat variable untuk logika coding kita
     private long ms = 0;
-    private long splashTime = 3000;
+    private long splashTime = 6000;
     private boolean splashActive = true;
     private boolean paused = false;
 
@@ -17,6 +18,8 @@ public class SplashScreenActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash_screen);
 
+        final ProgressBar progressBar = findViewById(R.id.progressbar);
+
         //TODO 2 Membuat Thread
         Thread mythread = new Thread(){
             public void run(){
@@ -24,8 +27,9 @@ public class SplashScreenActivity extends AppCompatActivity {
                     //TODO 3 Melakukan perulangan sampai ms > splashTime
                     while(splashActive && ms < splashTime){
                         if (!paused){
-                            ms = ms + 100;
-                            sleep(100);
+                            ms = ms + 10;
+                            sleep(10);
+                            progressBar.setProgress((int)ms);
                         }
                     }
                 }catch (Exception e) {
